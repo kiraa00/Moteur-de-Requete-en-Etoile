@@ -1,0 +1,20 @@
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-02 22-34-43;moteurCold;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;21826;550;23;25915
+2022-01-02 22-34-43;Jena;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;1732;550;372;25915
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-02 22-42-29;moteurCold;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;19375;522;26;23468
+2022-01-02 22-42-29;Jena;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;1664;522;426;23468
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-02 22-43-13;moteurwithCacheCold;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;20414;475;23;24658
+2022-01-02 22-43-13;Jena;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;1683;475;376;24658
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-02 22-43-40;moteurwithCacheCold;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;30269;433;16;34737
+2022-01-02 22-43-40;Jena;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;1646;433;474;34737
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-02 22-44-22;moteurwithCacheCold;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;28272;435;13;32576
+2022-01-02 22-44-22;Jena;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;1713;435;419;32576

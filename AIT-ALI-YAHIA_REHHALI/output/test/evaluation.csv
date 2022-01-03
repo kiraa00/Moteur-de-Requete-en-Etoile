@@ -1,0 +1,16 @@
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 11-54-15;moteurCold;100K.nt;10MN.queryset;107338;10001;10754;1160;73;18302
+2022-01-01 11-54-15;Jena;100K.nt;10MN.queryset;107338;10001;2449;1160;1805;18302
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 11-56-23;moteurCold;100K.nt;10MN.queryset;107338;10001;14094;1029;68;20789
+2022-01-01 11-56-23;Jena;100K.nt;10MN.queryset;107338;10001;2051;1029;0;20789
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 12-09-34;moteurCold;100K.nt;10MN.queryset;107338;10001;16543;1032;73;24126
+2022-01-01 12-09-34;Jena;100K.nt;10MN.queryset;107338;10001;2027;1032;961;24126
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 12-10-50;moteurCold;100K.nt;STAR_ALL_workload.queryset;107338;1200;13538;329;19;17101
+2022-01-01 12-10-50;Jena;100K.nt;STAR_ALL_workload.queryset;107338;1200;1750;329;290;17101

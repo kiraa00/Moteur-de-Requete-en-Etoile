@@ -1,0 +1,19 @@
+requete:
+SELECT ?v0 WHERE {	?v0 <http://schema.org/eligibleRegion> <http://db.uwaterloo.ca/~galuc/wsdbm/Country137> . } 
+ Resultat: 
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer195
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer311
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer642
+http://db.uwaterloo.ca/~galuc/wsdbm/Offer642
+
+
+requete:
+	SELECT ?v0 WHERE {	?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/likes> <http://db.uwaterloo.ca/~galuc/wsdbm/Product0> .	?v0 <http://schema.org/nationality> <http://db.uwaterloo.ca/~galuc/wsdbm/Country3> . }
+ Resultat: 
+
+
+requete:
+		SELECT ?v0 WHERE {	?v0 <http://purl.org/dc/terms/Location> <http://db.uwaterloo.ca/~galuc/wsdbm/City2> .	?v0 <http://schema.org/nationality> <http://db.uwaterloo.ca/~galuc/wsdbm/Country169> .	?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/gender> <http://db.uwaterloo.ca/~galuc/wsdbm/Gender1> . }
+ Resultat: 
+
+

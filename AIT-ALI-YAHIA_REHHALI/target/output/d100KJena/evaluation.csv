@@ -1,0 +1,4 @@
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 21-10-31;moteurCold;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;13893;375;16;17425
+2022-01-01 21-10-31;Jena;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;1611;375;299;17425

@@ -1,0 +1,6 @@
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2021-12-31 18-36-09;moteurCold;500K.nt;10MN.queryset;500000;10001;577104;1091;152;578454
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2021-12-31 18-47-25;moteurWarm;500K.nt;10MN.queryset;500000;10001;854723;940;117;855958

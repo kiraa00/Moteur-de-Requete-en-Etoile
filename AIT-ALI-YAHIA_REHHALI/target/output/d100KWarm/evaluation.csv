@@ -1,0 +1,9 @@
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 21-12-20;moteurCold;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;8934;391;16;9417
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 21-12-45;moteurWarm;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;9091;391;16;9544
+
+Date;type;Input Data;Input Requete;Nombre Triplet;Nombre requete;Temps Data;Temps Parse RequêtesTemps reponse;Temps Programme
+2022-01-01 21-13-14;moteurWarm;workload2\100K.nt;workload2\2100Q.queryset;107338;2100;9210;406;16;9663
